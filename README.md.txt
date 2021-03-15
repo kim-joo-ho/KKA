@@ -1,3 +1,3 @@
 #KKA Clone 2021
 
-HTML & CSS got so much fun~
+HTML & CSS got so much fun
